@@ -1,4 +1,5 @@
-# -Fix-Value-is-string-but-should-be-boolean-Nextflow-nf-core
+# Fix 'Value is string but should be boolean' | Nextflow | nf-core
+
  ERROR ~ Validation of pipeline parameters failed!   
  
  -- Check '.nextflow.log' file for details The following invalid input values have been detected:  
