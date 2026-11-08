@@ -1,2 +1,9 @@
 # -Fix-Value-is-string-but-should-be-boolean-Nextflow-nf-core
- ERROR ~ Validation of pipeline parameters failed!   -- Check '.nextflow.log' file for details The following invalid input values have been detected:  --save_reference (true): Value is [string] but should be [boolean] --skip_alignment (true): Value is [string] but should be [boolean]
+ ERROR ~ Validation of pipeline parameters failed!   
+ 
+ -- Check '.nextflow.log' file for details The following invalid input values have been detected:  
+ --save_reference (true): Value is [string] but should be [boolean]
+ --skip_alignment (true): Value is [string] but should be [boolean]
+
+ 
+[![Nextflow NXF_SYNTAX_PARSER explained](https://img.youtube.com/vi/PWIQHE_CSt4/maxresdefault.jpg)](https://www.youtube.com/watch?v=PWIQHE_CSt4)
