@@ -2,7 +2,9 @@
  ERROR ~ Validation of pipeline parameters failed!   
  
  -- Check '.nextflow.log' file for details The following invalid input values have been detected:  
+ 
  --save_reference (true): Value is [string] but should be [boolean]
+ 
  --skip_alignment (true): Value is [string] but should be [boolean]
 
  
