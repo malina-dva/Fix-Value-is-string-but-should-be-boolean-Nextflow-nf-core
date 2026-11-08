@@ -12,6 +12,9 @@ Have a look at the video below to fix the error !!!
 
 Click on the video below to find out how to fix the error!
 
+
+https://www.youtube.com/watch?v=PWIQHE_CSt4
+
  
 [![Nextflow NXF_SYNTAX_PARSER explained](https://img.youtube.com/vi/PWIQHE_CSt4/maxresdefault.jpg)](https://www.youtube.com/watch?v=PWIQHE_CSt4)
 
